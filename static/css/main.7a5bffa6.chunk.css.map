@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAEA,QACE,WACF","file":"main.7a5bffa6.chunk.css","sourcesContent":[".app {\n  padding: 30px;\n}\n\n.select {\n  width: 100px;\n}\n"]}
